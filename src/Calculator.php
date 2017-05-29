@@ -1,6 +1,6 @@
 <?php
 
-namespace Pandan2536\Calculator;
+namespace pandan2536\Calculator;
 class Calculator
 {
      public function add($first_num, $second_num)
