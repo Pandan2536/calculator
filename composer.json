@@ -1,5 +1,5 @@
 {
-    "name": "admin/calculator",
+    "name": "pandan2536/calculator",
     "authors": [
         {
             "name": "Pandan2536",
@@ -9,7 +9,7 @@
     "require": {},
     "autoload " : {
         "psr-4": {
-            "Pandan2536\\Calculator\\": "src/"
+            "pandan2536\\Calculator\\": "src/"
         }
         }
 }
