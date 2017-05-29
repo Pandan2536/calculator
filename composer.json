@@ -1,0 +1,15 @@
+{
+    "name": "admin/calculator",
+    "authors": [
+        {
+            "name": "Pandan2536",
+            "email": "kanthreeras57@email.nu.ac.th"
+        }
+    ],
+    "require": {},
+    "autoload " : {
+        "psr-4": {
+            "Pandan2536\\Calculator\\": "src/"
+        }
+        }
+}
